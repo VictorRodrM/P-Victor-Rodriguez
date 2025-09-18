@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio – Víctor Rodríguez
+# 📊 Analisis de datos portafolio – Víctor Rodríguez
 
 ¡Bienvenido a mi portafolio de proyectos de análisis de datos!  
 Soy **Licenciado en Actuaría** con experiencia en **análisis financiero, compensaciones y beneficios, estadística aplicada y automatización de procesos**.  
