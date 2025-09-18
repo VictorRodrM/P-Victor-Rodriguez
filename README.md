@@ -24,11 +24,10 @@ Aquí encontrarás ejemplos de proyectos donde aplico mis conocimientos en **Pyt
 
 ---
 
-## 💌 Contacto
+## ✉️ Contacto
 
-- 📍 [LinkedIn](https://www.linkedin.com)  
-- 📧 victor.rodriguez@email.com  
+- 📍 [LinkedIn](www.linkedin.com/in/victorrm-lact)  
+- 📧 victorrodriguezmla@gmail.com 
 
 ---
 
-✨ *Este portafolio está en constante actualización con nuevos proyectos y aprendizajes.*
