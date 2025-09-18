@@ -1,4 +1,4 @@
-# 📊 Analisis de datos portafolio – Víctor Rodríguez
+# 📊 Analisis de datos portafolio – Victor Rodríguez
 
 ¡Bienvenido a mi portafolio de proyectos de análisis de datos!  
 Soy **Licenciado en Actuaría** con experiencia en **análisis financiero, compensaciones y beneficios, estadística aplicada y automatización de procesos**.  
@@ -11,7 +11,7 @@ Aquí encontrarás ejemplos de proyectos donde aplico mis conocimientos en **Pyt
 | Proyecto | Descripción | Tecnologías | Resultados |
 |----------|-------------|-------------|------------|
 | [📈 Estrategia de Inversión Media Móvil](./Estrategia_inversion_mediamovil.ipynb) | Análisis de medias móviles para estrategias de inversión en mercados financieros. | Python, Pandas, Numpy, Matplotlib | Evaluación de indicadores y señales de compra/venta basados en medias móviles. |
-| [🚇 Metrorey Análisis](./Metrorey.ipynb) | Exploración de datos del transporte Metrorey para analizar demanda y flujos de pasajeros. | Python, Pandas, Matplotlib | Identificación de patrones de uso y recomendaciones para la optimización del servicio. |
+| [🚇 Metrorey Análisis](./Metrorrey.ipynb) | Exploración de datos del transporte Metrorey para analizar demanda y flujos de pasajeros. | Python, Pandas, Matplotlib | Identificación de patrones de uso y recomendaciones para la optimización del servicio. |
 
 ---
 
