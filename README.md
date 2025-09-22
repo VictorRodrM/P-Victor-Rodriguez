@@ -11,7 +11,7 @@ Aquí encontrarás ejemplos de proyectos donde aplico mis conocimientos en **Pyt
 | Proyecto | Descripción | Tecnologías | Resultados |
 |----------|-------------|-------------|------------|
 | [📈 Estrategia de Inversión Media Móvil](./Estrategia_inversion_mediamovil.ipynb) | Análisis de medias móviles para estrategias de inversión en mercados financieros. | Python, Pandas, Numpy, Matplotlib | Evaluación de indicadores y señales de compra/venta basados en medias móviles. |
-| [🍕 Ventas de pizzeria](./Ventas%20depizzas.pbix) | Exploración de datos de las ordenes diarias de una pizzeria. | DAX, Power query, Modelado de datos| Identificación de patrones de venta y recomendaciones para la optimización del servicio. |
+| [🍕 Ventas de pizzeria](./Ventas_de_pizzas.pbix) | Exploración de datos de las ordenes diarias de una pizzeria. | DAX, Power query, Modelado de datos| Identificación de patrones de venta y recomendaciones para la optimización del servicio. |
 
 ---
 
