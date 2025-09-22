@@ -26,7 +26,7 @@ Aquí encontrarás ejemplos de proyectos donde aplico mis conocimientos en **Pyt
 
 ## ✉️ Contacto
 
-- 📍 [LinkedIn](www.linkedin.com/in/victorrm-lact)  
+- 📍 LinkedIn (www.linkedin.com/in/victorrm-lact)  
 - 📧 victorrodriguezmla@gmail.com 
 
 ---
