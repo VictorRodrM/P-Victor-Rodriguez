@@ -17,7 +17,7 @@ Aquí encontrarás ejemplos de proyectos donde aplico mis conocimientos en **Pyt
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Python (Pandas, Numpy, Scikit‑learn), SQL  
+- **Lenguajes:** Python (Pandas, Numpy), SQL  
 - **Visualización:** Power BI, Matplotlib, Seaborn  
 - **Ofimática:** Excel avanzado (tablas dinámicas, macros, fórmulas)  
 - **Otros:** Automatización con Python, GitHub, Google Sheets  
